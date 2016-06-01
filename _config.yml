@@ -1,0 +1,14 @@
+layout_spectrum: 1
+typography_spectrum: 0.06713208
+color:
+  saturation: 0.3754028
+  lightness: 0.7685285
+  brandStrength: 0.7707881
+  brandColors:
+    - '#FFFFFF'
+    - '#131311'
+    - '#B6A89B'
+    - '#5F3424'
+    - '#936857'
+  rhythmicContrast: 0.7536929
+name: Exotici
